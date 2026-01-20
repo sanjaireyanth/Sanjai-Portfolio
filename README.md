@@ -182,7 +182,7 @@ vercel
 
 ## 📄 License
 
-This portfolio template is created for Sanjai and is customizable for personal use.
+This portfolio template is created by Sanjai and is customizable for personal use.
 
 ## 🤝 Support
 
@@ -194,3 +194,4 @@ For customization help or questions, refer to:
 ---
 
 **Built with ❤️ for creative storytelling through motion**
+
