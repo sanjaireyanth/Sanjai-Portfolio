@@ -1,4 +1,4 @@
-# Sanjai - Cinematic Motion Graphics Portfolio
+# Sanjai - Ultra-Premium Cinematic Motion Graphics Portfolio
 
 An ultra-premium, cinematic motion graphics portfolio website for Motion Designer & Video Editor **Sanjai**. Built as an interactive experience that feels like a motion reel, not a traditional portfolio.
 
@@ -50,7 +50,7 @@ This portfolio website reimagines what a motion designer's online presence shoul
 
 1. **Clone or navigate to the project**
 ```bash
-cd NEXTJS-portflio-main
+cd SANJAI-portflio-main
 ```
 
 2. **Install dependencies**
@@ -194,4 +194,3 @@ For customization help or questions, refer to:
 ---
 
 **Built with ❤️ for creative storytelling through motion**
-
